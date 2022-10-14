@@ -1,0 +1,5 @@
+#返回json的全局时间
+spring:
+  jackson:
+    date-format: yyyy-MM-dd H:mm:ss
+    time-zone: GMT+8
